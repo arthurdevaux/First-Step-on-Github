@@ -2,9 +2,9 @@
 
 ##Objectifs
 
-.Utiliser Git
-.Mettre en ligne avec Github
-.Forker un projet
+* Utiliser Git
+* Mettre en ligne avec Github
+* Forker un projet
 
 ##Installation
 
